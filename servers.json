@@ -1,8 +1,9 @@
 [
     {
-      "x2": "true",
+      "color": "FF0000",
+      "dopname": "X2",
+      "maxonline": 1000,
       "name": "Moscow",
-      "online": 2,
-      "maxonline": 1000
+      "online": 20
     }
- ]
+]
